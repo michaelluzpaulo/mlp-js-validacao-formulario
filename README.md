@@ -1,4 +1,4 @@
-mlp-validacao-formulario-especificas
+mlp-js-validacao-formulario
 ====================================
 
-Validações de campos especificos de formulários/Validations specific form fields
+Validações de campos especificos de formulários em javascript/Validations specific form fields - javascript
