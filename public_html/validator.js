@@ -2,7 +2,7 @@
  * @author Michael Luz Paulo michaelluzpaulo@gmail.com
  * @version 1.0
  * 
- * @CLASSE(entre aspas) DE VALIDAÇÃO
+ * @VALIDAÇÃO
  * 2013
  * 
  * Ajudas
